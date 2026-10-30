@@ -1,0 +1,6 @@
+interface:
+  display_name: "word-writing-guide"
+  short_description: "中文 Word 写作规范，保留用户修改并统一公式、样式和交付检查"
+  default_prompt: "请使用 $word-writing-guide 创建或修改这份 Word；先检查并保留原稿中的用户标记、批注和删除，再完成排版与交付检查。"
+policy:
+  allow_implicit_invocation: true

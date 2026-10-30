@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+*.bak
+*.log
+.env
+.env.*
+/private/
+/drafts/
+/outputs/
